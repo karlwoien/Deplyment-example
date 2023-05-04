@@ -1,2 +1,2 @@
 # Deplyment example
-For the lesson task "Display Your Site on the Web"
+For the lesson task under "Display Your Site on the Web"
